@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi ! Call me Jonathan Bayikehya<br>Etudiant à l'UAC<br>pensionné du développement web<br>amourée de formation dont le thème est orienté dans le numérique<br>
+Hi ! I'm **Jonathan Bayikehya**<br>Etudiant à l'UAC<br>pensionné du développement web<br>amourée de formation dont le thème est orienté dans le numérique<br>
 
 
 ## 🌐 Socials:
